@@ -58,20 +58,14 @@ Key objectives:
 
 ---
 
-## 📂 Project Structure  
-```plaintext
-├── dataset/               # Sample datasets used in case studies
-├── notebooks/             # Jupyter notebooks for analysis
-├── results/               # Outputs, visualizations, and reports
-├── README.md              # Documentation
 ---
-
 
 ## ✅ Results  
 - Domain-specific data insights generated  
 - Conversational Q&A system powered by LLMs  
 - Demonstrated use-cases in **agriculture**, **science & technology**, and **business operations**  
 - Final project submitted and presented as part of certification requirements  
+
 ---
 
 ## 📖 About the Internship  
@@ -94,6 +88,5 @@ This 4-week internship, offered by **Edunet Foundation, Vodafone Idea Foundation
 
 ---
 
-##✍️ Author  
+## ✍️ Author  
 **Vivek Chaurasia**  
-
