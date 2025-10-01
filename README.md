@@ -55,15 +55,6 @@ Key objectives:
 - **Large Language Models (LLMs)** – For conversational analytics  
 - **Jupyter Notebook / Google Colab** – For experimentation  
 - **GitHub** – For project documentation and collaboration  
-
----
-
-## 📂 Project Structure  
-```plaintext
-├── dataset/               # Sample datasets used in case studies
-├── notebooks/             # Jupyter notebooks for analysis
-├── results/               # Outputs, visualizations, and reports
-├── README.md              # Documentation
 ---
 
 ## ✅ Results  
