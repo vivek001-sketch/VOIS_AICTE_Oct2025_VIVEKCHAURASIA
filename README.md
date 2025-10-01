@@ -64,14 +64,12 @@ Key objectives:
 ├── notebooks/             # Jupyter notebooks for analysis
 ├── results/               # Outputs, visualizations, and reports
 ├── README.md              # Documentation
-
+---
 ## ✅ Results  
-
 - Domain-specific data insights generated  
 - Conversational Q&A system powered by LLMs  
 - Demonstrated use-cases in **agriculture**, **science & technology**, and **business operations**  
 - Final project submitted and presented as part of certification requirements  
-
 ---
 
 ## 📖 About the Internship  
@@ -90,12 +88,10 @@ This 4-week internship, offered by **Edunet Foundation, Vodafone Idea Foundation
 ✅ Successful completion required:  
 - Active participation in weekly mentor sessions  
 - Completion of VOIS for Tech LMS courses  
-- Submission of final project  
-
-📌 Note: This internship was offered with **no stipend**.  
+- Submission of final project    
 
 ---
 
-## ✍️ Author  
+##✍️ Author  
 **Vivek Chaurasia**  
 
