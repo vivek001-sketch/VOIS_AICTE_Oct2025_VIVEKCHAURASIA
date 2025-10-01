@@ -65,44 +65,37 @@ Key objectives:
 ├── results/               # Outputs, visualizations, and reports
 ├── README.md              # Documentation
 
-✅ Results
+## ✅ Results  
 
-Domain-specific data insights generated
+- Domain-specific data insights generated  
+- Conversational Q&A system powered by LLMs  
+- Demonstrated use-cases in **agriculture**, **science & technology**, and **business operations**  
+- Final project submitted and presented as part of certification requirements  
 
-Conversational Q&A system powered by LLMs
+---
 
-Demonstrated use-cases in agriculture, science & technology, and business operations
+## 📖 About the Internship  
 
-Final project submitted and presented as part of certification requirements
+This 4-week internship, offered by **Edunet Foundation, Vodafone Idea Foundation (VOIS), and AICTE**, provided hands-on experience in **Conversational Data Analytics with LLMs**.  
 
-📖 About the Internship
+### Internship Timeline:  
+- **Week 0**: Orientation, LMS Registration, Internship Schedule  
+- **Week 1**: Introduction to Data Analytics & LLMs  
+- **Week 2**: Hands-on: Agriculture Domain Case Study  
+- **Week 3**: Hands-on: Science & Technology Domain Case Study  
+- **Week 4**: Hands-on: Business & Operations Domain Case Study  
 
-This 4-week internship, offered by Edunet Foundation, Vodafone Idea Foundation (VOIS), and AICTE, provided hands-on experience in Conversational Data Analytics with LLMs.
+**Project Submission Deadline**: 22nd October 2025  
 
-Internship Timeline:
+✅ Successful completion required:  
+- Active participation in weekly mentor sessions  
+- Completion of VOIS for Tech LMS courses  
+- Submission of final project  
 
-Week 0: Orientation, LMS Registration, Internship Schedule
+📌 Note: This internship was offered with **no stipend**.  
 
-Week 1: Introduction to Data Analytics & LLMs
+---
 
-Week 2: Hands-on: Agriculture Domain Case Study
+## ✍️ Author  
+**Vivek Chaurasia**  
 
-Week 3: Hands-on: Science & Technology Domain Case Study
-
-Week 4: Hands-on: Business & Operations Domain Case Study
-
-Project Submission Deadline: 22nd October 2025
-
-✅ Successful completion required:
-
-Active participation in weekly mentor sessions
-
-Completion of VOIS for Tech LMS courses
-
-Submission of final project
-
-📌 Note: This internship was offered with no stipend.
-
-✍️ Author
-
-Vivek Chaurasia
