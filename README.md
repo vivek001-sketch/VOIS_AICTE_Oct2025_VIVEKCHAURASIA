@@ -10,13 +10,10 @@ The internship focused on building practical skills in **Data Analytics, LLMs, a
 - Intern Details  
 - Project Overview  
 - Data Analytics & LLM Approach  
-- Tools & Platforms Used  
-- Project Structure  
-- Sample Dataset Format  
+- Tools & Platforms Used    
 - Results  
 - About the Internship  
-- Author  
-- License  
+- Author   
 
 ---
 
